@@ -7,8 +7,8 @@
 <title>Hello World web application</title>
 </head>
 <body>
-   Hello how are you???? 
-	<h1>Thanks a lot for being so patient through the session!</h1>
+   Hello how are you? I'm fine!
+	<h1>Thanks a lot for presenting the session!</h1>
     	<form action="helloServlet" method="post">
     	Enter your name: <input type="text" name="username" size="20">
     	<input type="submit" value="Call Servlet" />
